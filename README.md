@@ -1,2 +1,2 @@
-# linear-algebra
-BU CS 132
+# Linear Algebra
+Some work done for my CS132 Linear Algebra class
